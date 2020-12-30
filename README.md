@@ -1,4 +1,4 @@
-# Share-note React SPA App
+# ShareNotes React SPA App
 ### App Functionality
   - Create, search, read note 
 
