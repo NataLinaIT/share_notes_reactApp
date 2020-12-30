@@ -1,0 +1,83 @@
+.main {
+  height: 100vh;
+  position: relative;
+}
+.container {
+  max-width: 1000px;
+}
+.hide {
+  display: none;
+}
+.active {
+  color: rgb(151, 106, 106);
+  text-decoration: underline;
+}
+.nav_wrapper {
+  margin-bottom: 100px;
+}
+ul.navbar {
+  color: #fff;
+  display: flex;
+  justify-content: left !important;
+  margin-bottom: 0;
+}
+nav a {
+  color: #fff;
+}
+nav a:hover {
+  color: rgb(151, 106, 106);
+}
+nav li {
+  list-style: none;
+  margin-right: 30px;
+}
+a {
+  text-decoration: none;
+}
+.logo {
+  font-size: 1.3em;
+  font-weight: bold;
+  color: rgba(228, 224, 220, 0.8);
+  margin-right: 70px;
+}
+.description {
+  margin-bottom: 70px;
+}
+.node_links {
+  display: flex;
+  justify-content: left;
+}
+.node_links button:first-of-type {
+  margin-right: 30px;
+}
+.btn-primary a {
+  color: #fff;
+}
+button{
+  margin-top: 15px;
+}
+form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+label {
+  margin-bottom: 10px;
+}
+input,
+textarea {
+  margin-bottom: 30px;
+}
+textarea {
+  height: 120px;
+  resize: none;
+}
+footer {
+  position: absolute !important;
+  bottom: 0;
+  top: auto;
+  color: #fff;
+  text-align: center;
+}
+footer p {
+  margin: 20px auto;
+}
