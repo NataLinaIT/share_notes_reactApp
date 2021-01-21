@@ -22,3 +22,6 @@ In the backend directory, you can run:
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+<div align="center">
+  <img src="https://github.com/NataLinaIT/share_notes_reactApp/blob/master/react_project/assets/shareNotes.gif?raw=true" alt="screenshot" >
+</div>
